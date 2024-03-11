@@ -1,0 +1,13 @@
+order_no,c_id,c_name,p_code,p_name,qty,price
+HM06,9212,Jessica,11,pencil,3,30
+HM09,3921,Mike,17,biscuits,10,600
+HM10,9875,Shane,2,cornoto,10,500
+HM03,1212,Ricardo,20,kiwi,3,420
+HM05,1910,Mohan,20,kiwi,2,280
+HM08,5334,Chirsty,16,chocolate,2,50
+HM07,1246,Luca,19,apple,5,600
+HM01,1910,Mohan,5,mayanoise,4,360
+HM04,1111,Lisa,25,conditioner,5,1000
+HM011,1246,Luca,17,biscuts,2,120
+HM13,1216,Adrian,22,onion,1,22
+HM012,3921,Mike,6,jam,1,105
